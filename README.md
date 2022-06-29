@@ -8,7 +8,13 @@
 - Even though, messing with some variables and values can result in unecpected results
 - This class was made for android ***SDK 21*** and above
 - Can provide the color in ***integer*** and ***hex string*** form (eg : 0,1 and #FFFFFFFF, #FF000000)
-- Hex string returned is in **#AARRGGBB** form 
+- Hex string returned is in ***#AARRGGBB*** form 
+
+## Setup
+- Copy the java file, that is, ***ColorPickerDialogBuilder.java*** to your project
+- The class is declared with package name 
+- You are all set
+- Contact me if there is any doubts/problems
 ## Usage
 ```
 ColorPickerDialogBuilder colorPicker = new ColorPickerDialogBuilder(this);
