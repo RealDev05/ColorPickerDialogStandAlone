@@ -13,7 +13,7 @@
 ## Setup
 - Copy the java file, that is, ***ColorPickerDialogBuilder.java*** to your project
 - The class is declared with package name **com.realdev.betrage.ColorPickerDialog** , so change it to match yours
-- - That is, if your package name ( can be found at top of yout *mainactivity* ) **com.example.test** then change the top line of **ColorPickerDialogBuilder.java** from 
+- - That is, if your package name ( can be found at top of your *mainactivity* ) **com.example.test** then change the top line of **ColorPickerDialogBuilder.java** from 
 - - > ***package com.realdev.betrage.ColorPickerDialog;*** 
 - - to 
 - - > **package _com.example.test_.ColorPickerDialog;**
