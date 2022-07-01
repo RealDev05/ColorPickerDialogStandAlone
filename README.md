@@ -23,8 +23,8 @@
 ```
 ColorPickerDialogBuilder colorPicker = new ColorPickerDialogBuilder(this);
 colorPicker.show(new ColorPickerDialogBuilder.ColorPickedListener() {
+
     @Override
-    
     public void OnColorPicked(int color, String hex) {
             
             
